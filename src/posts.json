@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "title": "5 Self-Care Tips for Busy Women",
+      "content": "Feeling overwhelmed?  These simple self-care practices can help you recharge and prioritize your well-being, even when life gets hectic.",
+      "likes": 28,
+      "unlikes": 3,
+      "hearts": 15,
+      "comments": ["Love these tips!", "Self-care is so important."],
+      "image": "https://picsum.photos/400/300?random=1",
+      "created_at": {
+        "date": 1680124800000,
+        "isUpdated": false
+      }
+    },
+    {
+      "id": 2,
+      "title": "The Ultimate Guide to a Capsule Wardrobe",
+      "content": "Simplify your style and create endless outfit possibilities with a capsule wardrobe. This guide will help you curate a collection of versatile pieces.",
+      "likes": 35,
+      "unlikes": 2,
+      "hearts": 22,
+      "comments": ["This is so helpful!", "I'm going to try this."],
+      "image": "https://picsum.photos/400/300?random=2",
+      "created_at": {
+        "date": 1680211200000,
+        "isUpdated": true
+      }
+    },
+    {
+      "id": 3,
+      "title": "How to Negotiate Your Salary",
+      "content": "Know your worth!  These tips will empower you to confidently negotiate your salary and get the compensation you deserve.",
+      "likes": 42,
+      "unlikes": 1,
+      "hearts": 28,
+      "comments": ["Thank you for this!", "I needed this advice."],
+      "image": "https://picsum.photos/400/300?random=3",
+      "created_at": {
+        "date": 1680297600000,
+        "isUpdated": false
+      }
+    },
+    {
+      "id": 4,
+      "title": "Travel Tips for Solo Female Travelers",
+      "content": "Planning a solo trip?  These safety tips and practical advice will help you have an amazing and secure travel experience.",
+      "likes": 31,
+      "unlikes": 4,
+      "hearts": 19,
+      "comments": ["I'm inspired to travel solo!", "These tips are great."],
+      "image": "https://picsum.photos/400/300?random=4",
+      "created_at": {
+        "date": 1680384000000,
+        "isUpdated": true
+      }
+    },
+    {
+      "id": 5,
+      "title": "Building Confidence: A Step-by-Step Guide",
+      "content": "Struggling with self-doubt?  This guide will help you build your confidence and embrace your true potential.",
+      "likes": 45,
+      "unlikes": 0,
+      "hearts": 32,
+      "comments": ["This is so encouraging!", "I'm going to work on this."],
+      "image": "https://picsum.photos/400/300?random=5",
+      "created_at": {
+        "date": 1680470400000,
+        "isUpdated": false
+      }
+    },
+    {
+      "id": 6,
+      "title": "The Power of Saying No",
+      "content": "Learning to say no is essential for setting boundaries and prioritizing your time and energy.  This post explores the benefits and provides tips for saying no gracefully.",
+      "likes": 29,
+      "unlikes": 2,
+      "hearts": 16,
+      "comments": ["This is so true!", "I need to get better at this."],
+      "image": "https://picsum.photos/400/300?random=6",
+      "created_at": {
+        "date": 1680556800000,
+        "isUpdated": false
+      }
+    }
+  ]
