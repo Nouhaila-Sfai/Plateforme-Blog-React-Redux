@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plateforme-Blog-React-Redux/static/css/main.c1838ebf.css",
+    "main.js": "/Plateforme-Blog-React-Redux/static/js/main.42641f46.js",
+    "index.html": "/Plateforme-Blog-React-Redux/index.html",
+    "main.c1838ebf.css.map": "/Plateforme-Blog-React-Redux/static/css/main.c1838ebf.css.map",
+    "main.42641f46.js.map": "/Plateforme-Blog-React-Redux/static/js/main.42641f46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1838ebf.css",
+    "static/js/main.42641f46.js"
+  ]
+}
